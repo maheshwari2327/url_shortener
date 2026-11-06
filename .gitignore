@@ -31,3 +31,6 @@ htmlcov/
 build/
 dist/
 *.egg-info/
+
+# Node.js dependencies
+node_modules/
