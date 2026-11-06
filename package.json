@@ -1,0 +1,23 @@
+{
+  "name": "url-shortener",
+  "version": "1.0.0",
+  "description": "A lightweight, fast URL Shortener built with Node.js, Express, Bootstrap 5, and Redis",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "keywords": [
+    "url-shortener",
+    "redis",
+    "express",
+    "nodejs",
+    "key-value"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.21.2",
+    "redis": "4.7.0"
+  }
+}
